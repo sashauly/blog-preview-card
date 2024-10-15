@@ -8,14 +8,14 @@
 
 @font-face {
   font-family: Figtree;
-  src: url("assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
   font-weight: 500 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: Figtree;
-  src: url("assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
   font-weight: 500 800;
   font-style: italic;
 }
@@ -118,7 +118,7 @@ body {
   .card__image {
     min-height: 200px;
     background-color: var(--yellow-color);
-    background-image: url("assets/images/illustration-article.svg");
+    background-image: url("../assets/images/illustration-article.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
